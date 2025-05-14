@@ -87,6 +87,5 @@ INDEX VERSION 1.134+C:\Users\Usuário\Desktop\JAVA + SPRING BOOT\.metadata\.plug
 957910876.index
 4070254789.index
 4063372545.index
-3927496509.index
 1778527631.index
 3508982836.index
